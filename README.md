@@ -104,8 +104,8 @@ mysql -u [usuario] -p [nome_do_banco] < caminho/para/seu/dados_iniciais.sql`
 
 ## Rotas
 - Rota completa de usuarios: http://localhost:3000/v1/user/search ou :id ou token (ou vazio para post para criar usuário).
-- Rota completa de produtos: http://localhost:3000/v1/user/search ou :id (ou vazio para post para criar produto).
-- Rota completa de categorias: http://localhost:3000/v1/user/search ou :id (ou vazio para post para criar categoria).
+- Rota completa de produtos: http://localhost:3000/v1/product/search ou :id (ou vazio para post para criar produto).
+- Rota completa de categorias: http://localhost:3000/v1/category/search ou :id (ou vazio para post para criar categoria).
 
 ### Usuários
 
