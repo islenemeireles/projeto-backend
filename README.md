@@ -81,7 +81,7 @@ DB_PORT=3306
 ```
 5. **Configure o banco de dados**
 
-Se você não tem o MySQL instalado, consulte [este guia de instalação do MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/) para instruções detalhadas.
+Se você não tem o MySQL instalado, aqui [este guia de instalação do MySQL]((https://dev.mysql.com/downloads/)), e clique para instalar para windows.
 
 
 - Crie o banco de dados: Use o comando abaixo para criar a estrutura do banco de dados:
@@ -103,9 +103,9 @@ mysql -u [usuario] -p [nome_do_banco] < caminho/para/seu/dados_iniciais.sql`
    O servidor estará rodando em `http://localhost:3000` por padrão.
 
 ## Rotas
-Rota completa de usuarios: http://localhost:3000/v1/user/search ou :id ou token (ou vazio para post para criar usuário).
-Rota completa de produtos: http://localhost:3000/v1/user/search ou :id (ou vazio para post para criar produto).
-Rota completa de categorias: http://localhost:3000/v1/user/search ou :id (ou vazio para post para criar categoria).
+- Rota completa de usuarios: http://localhost:3000/v1/user/search ou :id ou token (ou vazio para post para criar usuário).
+- Rota completa de produtos: http://localhost:3000/v1/user/search ou :id (ou vazio para post para criar produto).
+- Rota completa de categorias: http://localhost:3000/v1/user/search ou :id (ou vazio para post para criar categoria).
 
 ### Usuários
 
