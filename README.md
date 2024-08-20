@@ -81,7 +81,7 @@ DB_PORT=3306
 ```
 5. **Configure o banco de dados**
 
-Se você não tem o MySQL instalado, aqui [este guia de instalação do MySQL]((https://dev.mysql.com/downloads/)), e clique para instalar para windows.
+Se você não tem o MySQL instalado, aqui [guia de instalação do MySQL](https://dev.mysql.com/downloads/), e clique para instalar para windows.
 
 
 - Crie o banco de dados: Use o comando abaixo para criar a estrutura do banco de dados:
